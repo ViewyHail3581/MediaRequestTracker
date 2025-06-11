@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5WmHbg0lYMkyoryhWnhpEKoByjnO8CiNafb9KXtrO1Fb0jGRRKXSeMLsKIqSwUyz8fiJ2uHaDpA6ydQN1wwkrA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Eugene.DESKTOP-ECHMME4\\Desktop\\MediaRequestTracker\\MediaRequestTracker\\MediaRequestTracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eugene.DESKTOP-ECHMME4\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

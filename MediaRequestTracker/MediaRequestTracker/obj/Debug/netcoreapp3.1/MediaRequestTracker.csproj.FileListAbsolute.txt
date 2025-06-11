@@ -1,0 +1,13 @@
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\bin\Debug\netcoreapp3.1\MediaRequestTracker.exe
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\bin\Debug\netcoreapp3.1\MediaRequestTracker.deps.json
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\bin\Debug\netcoreapp3.1\MediaRequestTracker.runtimeconfig.json
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\bin\Debug\netcoreapp3.1\MediaRequestTracker.runtimeconfig.dev.json
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\bin\Debug\netcoreapp3.1\MediaRequestTracker.dll
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\bin\Debug\netcoreapp3.1\MediaRequestTracker.pdb
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\obj\Debug\netcoreapp3.1\MediaRequestTracker.csprojAssemblyReference.cache
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\obj\Debug\netcoreapp3.1\MediaRequestTracker.AssemblyInfoInputs.cache
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\obj\Debug\netcoreapp3.1\MediaRequestTracker.AssemblyInfo.cs
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\obj\Debug\netcoreapp3.1\MediaRequestTracker.csproj.CoreCompileInputs.cache
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\obj\Debug\netcoreapp3.1\MediaRequestTracker.dll
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\obj\Debug\netcoreapp3.1\MediaRequestTracker.pdb
+C:\Users\Eugene.DESKTOP-ECHMME4\Desktop\MediaRequestTracker\MediaRequestTracker\obj\Debug\netcoreapp3.1\MediaRequestTracker.genruntimeconfig.cache
